@@ -15,7 +15,7 @@
 </div>
 
 ## Desafio Docker e GO
-O desafio consistem em criar uma aplicação em GO com a seguinte saída: "Code.education Rocks!"
+O desafio consiste em criar uma aplicação em GO com a seguinte saída: "Code.education Rocks!"
 Esta aplicação deverá rodar em um container Docker que não deve ser maior que 2MB.
 
 ## Executando
